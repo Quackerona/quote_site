@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 rocket = "0.5.1"
+shuttle-rocket = "0.57.0"
+shuttle-runtime = "0.57.0"
